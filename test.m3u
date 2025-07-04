@@ -1,2 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-name="TRAITORS SEASON 1 | Travel XP FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/78232829731.png" group-title="Yashrajmod",IN | Travel XP FHD
-https://files.g0ldmine.workers.dev/24da563fa0bdd2f0da9cfebb1f51687a4317477cdeabb963c439146fc76bdb585ae514ce39ff9636f2b1b69920aa4816::f74fcbfef8359114619ea6f017973096/1397298576/Poker.Face.S01E01.Dead.Mans.Hand.2160p.PCOK.WEB-DL.DDP5.1.H.265-Tyrell.mkv
+#EXTM3U
+
+#EXTINF:123, BigBuckBunny - BigBuckBunny
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:321,ElephantsDream - ElephantsDream
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
