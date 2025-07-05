@@ -1,7 +1,3 @@
 #EXTM3U
-
-#EXTINF:123, BigBuckBunny - BigBuckBunny
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-
-#EXTINF:321,ElephantsDream - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1 tvg-id="squidgame" group-title="Movies",Your Movie
+https://pub-c3580cf6f7184e31901f0c0cda71b94a.r2.dev/Squid%20Game%20S03E05%202160p%20NF%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hin-Tel-Tam%20DDP%205.1%20+%20English%20DDP.Atmos%205.1%20+%20Korean%20DDP.Atmos%205.1]%20H.265%20HHWEB-4kHDHub.com.mkv
